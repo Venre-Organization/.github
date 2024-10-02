@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, We're Venre Organization</h1>
 <h3 align="center">An Organization helping you grow your business sooner and smarter</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/159686931?s=200&v=4" alt="venre-organization" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venre-organization" alt="venre-organization" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [www.venre.org](www.venre.org)
 
 - 💬 Ask me about **Nodejs,React,Vuejs,Expressjs,Nextjs and Nestjs**
